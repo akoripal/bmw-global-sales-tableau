@@ -63,4 +63,4 @@ BMW operates in highly dynamic global markets facing shifts in electrification, 
 ---
 
 ## 📄 Full Report
-📘 [BMW Global Sales Intelligence Report](_Project_Report_AK.pdf)
+📘 [BMW Global Sales Intelligence Report](report/_Project_Report_AK.pdf)
